@@ -1,0 +1,5 @@
+Hello, Mr. Michaud
+
+Here is a file I created online. 
+EDIT!!!
+“I am practicing editing files with Git and GitHub”
